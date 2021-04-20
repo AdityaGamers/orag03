@@ -1,0 +1,19 @@
+
+.header{
+  background-color: blue;
+  font-size: large;
+}
+.intro{
+  background-color: green;
+  
+}
+.grid{
+  background-color: blanchedalmond;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.footer{
+  background-color: blue;
+  font-size: medium;
+}
